@@ -2,7 +2,7 @@ import { Instagram, Music, Send } from "lucide-react";
 
 export const Footer = () => {
   return (
-    <footer className="bg-secondary text-secondary-foreground py-12">
+    <footer className="bg-gray-900 text-secondary-foreground py-12" >
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
@@ -11,7 +11,7 @@ export const Footer = () => {
           
           <div className="flex gap-6">
             <a
-              href="https://instagram.com"
+              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-primary"
@@ -22,7 +22,7 @@ export const Footer = () => {
             </a>
             
             <a
-              href="https://tiktok.com"
+              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-primary"
@@ -33,7 +33,7 @@ export const Footer = () => {
             </a>
             
             <a
-              href="https://t.me"
+              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-primary"
